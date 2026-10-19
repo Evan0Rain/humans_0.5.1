@@ -1,0 +1,17 @@
+{
+  "humans:human|humans:ancestor|humans:human-cosmetic|humans:nadiyan|humans:nomad": {
+    "game:entity/humanoid/seraph/clothing/upperbody/shortsleeve": "humans:clothing/upperbody/shortsleeve",
+    "game:entity/humanoid/seraph/clothing/upperbody/longsleeve": "humans:clothing/upperbody/longsleeve",
+    "game:entity/humanoid/seraph/clothing/upperbody/longsleeve-extended": "humans:clothing/upperbody/longsleeve-extended",
+    "game:entity/humanoid/seraph/clothing/upperbodyover/longsleeve": "humans:clothing/upperbodyover/longsleeve",
+    "game:entity/humanoid/seraph/clothing/upperbodyover/longsleeve-extended": "humans:clothing/upperbodyover/longsleeve-extended",
+    "game:entity/humanoid/seraph/clothing/upperbodyover/longsleeve-hood": "humans:clothing/upperbodyover/longsleeve-hood",
+    "game:entity/humanoid/seraph/clothing/upperbodyover/shortsleeve": "humans:clothing/upperbodyover/shortsleeve",
+    "game:entity/humanoid/seraph/clothing/shoulder/noble-fur-collar": "humans:clothing/shoulder/noble-fur-collar",
+    "game:entity/humanoid/seraph/clothing/shoulder/shortsleeve-extended": "humans:clothing/shoulder/shortsleeve-extended",
+    "game:entity/humanoid/seraph/clothing/shoulder/clockmaker-apron": "humans:clothing/shoulder/clockmaker-apron",
+    "game:entity/humanoid/seraph/clothing/shoulder/longsleeve-hood": "humans:clothing/shoulder/longsleeve-hood",
+    "game:entity/humanoid/seraph/clothing/shoulder/longsleeve": "humans:clothing/shoulder/longsleeve",
+    "game:entity/humanoid/seraph/clothing/shoulder/cape-hood": "humans:clothing/shoulder/cape-hood"
+  }
+}

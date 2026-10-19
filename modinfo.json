@@ -1,0 +1,17 @@
+{
+  "type": "content",
+  "name": "Humans",
+  "modid": "humans",
+  "version": "0.5.1",
+
+  "description": "",
+  "authors": [ "Maltiez", "motifa" ],
+
+  "dependencies": {
+    "playermodellib": "1.18.0-pre.8"
+  },
+
+  "side" : "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true
+}
